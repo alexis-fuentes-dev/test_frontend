@@ -1,0 +1,26 @@
+{
+    "category": 2,
+    "products": [
+        {
+            "id": 121,
+            "name": "Nombre del producto",
+            "price": 453,
+            "discount": 0,
+            "img_url": "https://source.unsplash.com/user/c_v_r/300x200"
+        },
+        {
+            "id": 598,
+            "name": "Nombre del producto 2",
+            "price": 56,
+            "discount": 10,
+            "img_url": "https://source.unsplash.com/user/c_v_r/300x200"
+        },
+        {
+            "id": 15,
+            "name": "Nombre del producto 3",
+            "price": 453,
+            "discount": 0,
+            "img_url": "https://source.unsplash.com/user/c_v_r/300x200"
+        }
+    ]
+}
