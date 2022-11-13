@@ -1,4 +1,4 @@
-API_URL = 'http://localhost:8000/api/v0/';
+API_URL = 'https://test-backend-bsale.herokuapp.com/api/v0/';
 
 function showAlert(message) {
     var alerta = '<div class="alert alert-warning" role="alert">'+ message +'</div>';
